@@ -32,4 +32,5 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 3
-- help students fork the repo and understand its code structure, etc. 
+- Copy notes into private notes
+-  Start to find work out ideas for what I want to make my website about
