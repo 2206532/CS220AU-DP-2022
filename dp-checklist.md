@@ -1,8 +1,12 @@
 Student Registration Number: 2206532
+
 Module code: CS220AU  
+
 Coursework title: Digital Portfolio  
+
 Marker: Dr Krisztián Hofstädter  
-GitHub repository URL: <!-- #todo : add the URL of your repository -->  https://2206532.github.io/CS220AU-DP-2022/
+
+GitHub repository URL:  https://2206532.github.io/CS220AU-DP-2022/
 
 ## Checklist
 <!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
