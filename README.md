@@ -32,9 +32,14 @@ Oritz felt that the use of her art in the training of the AI model Lensa uses to
 
 Many other artists also take to social media to express their discontent:
 
+![image](https://user-images.githubusercontent.com/116068004/213272629-69af8971-a340-46fa-ae1c-9330fd0ec073.png)
+
 This is what Twitter user [@FlyingTrilobite](https://twitter.com/FlyingTrilobite/status/1564760472318001152) says on the matter.
 
 
+![image](https://user-images.githubusercontent.com/116068004/213272963-1bf0e9de-48c8-475b-8df5-4bb23ce6858b.png)
+
+[@LaurynIpsum](https://twitter.com/LaurynIpsum/status/1599953586699767808)
 
 <br>
 
