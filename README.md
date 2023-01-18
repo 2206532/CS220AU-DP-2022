@@ -53,7 +53,7 @@ Napster was, as described by Britannica, “a music file-sharing computer servic
 
 ## Testing AI Artwork Generators
 
-I decided to try and create my own AI artwork using different free AI generators. To test these generators, I decided to pick one description to input into all of the generators to get the most accurate result. This was:
+I decided to try and create my own AI artwork using different free AI generators. To test these generators, I decided to pick one prompt to input into all of the generators to get the most accurate result. This was:
 
 #### “a ginger cat sat on a pile of books in a forest”. 
 
@@ -65,14 +65,36 @@ I decided to try and create my own AI artwork using different free AI generators
 3. Does this image contain certain tells that it has used a real artist’s work (e.g. you can see the artists signature)
 
 
+#### The first AI generator I used was [Deep Dream Generator](https://deepdreamgenerator.com/)
+
+Deep Dream is really easy to use. To start using it, you have to create an account, but once you have done that, you are able to create AI art. However, you are only allowed to create a certain number until you run out of “compute energy”. 
+
+![image](https://user-images.githubusercontent.com/116068004/213281232-b5ecc422-4285-4bc7-bf35-fb9d26f97178.png)
+
+Once I put my prompt into the text space and pressed generate, it came up with an extremely accurate image from my prompt description. 
+
+![image](https://user-images.githubusercontent.com/116068004/213281343-9e3ba40b-da9a-4491-a0a3-e9c1c00e1a00.png)
+
+However, if you look closer at the image, in the corner you can see some semblance of a signature/watermark, meaning the generator has copied a real artist’s work. 
+
+![image](https://user-images.githubusercontent.com/116068004/213282715-c392da27-e346-4a2d-b98f-bc76670c41d8.png)
+
+
+#### The next AI generator I used was [WOMBO Dream](https://dream.ai/create)
+
+Once again, WOMBO Dream is incredibly easy to use. This time I did not have to sign up to use the generator. 
+
+![image](https://user-images.githubusercontent.com/116068004/213283276-3e766b51-6e05-4f4e-8ae5-7c7befb6248f.png)
+
+I put my prompt in and had to choose what type of art style I wanted to use. Some of these were free but others you only got if you signed up for a premium account. However, I decided to choose the realistic filter as it would be the one that looked most like the Deep Dream AI artwork. 
+
+![image](https://user-images.githubusercontent.com/116068004/213283450-672347e5-382e-4cab-bc98-610244c75eaa.png)
+
+This time, there are no visible signs that this AI artwork has been copied from a real artist. Looking closely, there are no watermarks or signatures visible on the work. 
+
+<br>
+<br>
+
 ## Log
 
 - 18.10.2022  I created my Github account and started to work out how to use it.
-
-<br>
-
-## TODO
-### in week 3
-- Copy notes into private notes
--  Start to work out ideas for what I want to make my website about
--  
