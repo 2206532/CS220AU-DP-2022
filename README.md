@@ -32,29 +32,38 @@ Oritz felt that the use of her art in the training of the AI model Lensa uses to
 
 Many other artists also take to social media to express their discontent:
 
-![image](https://user-images.githubusercontent.com/116068004/213272629-69af8971-a340-46fa-ae1c-9330fd0ec073.png)
-
-This is what Twitter user [@FlyingTrilobite](https://twitter.com/FlyingTrilobite/status/1564760472318001152) says on the matter.
-
-
+![image](https://user-images.githubusercontent.com/116068004/213272629-69af8971-a340-46fa-ae1c-9330fd0ec073.png) 
 ![image](https://user-images.githubusercontent.com/116068004/213272963-1bf0e9de-48c8-475b-8df5-4bb23ce6858b.png)
 
-[@LaurynIpsum](https://twitter.com/LaurynIpsum/status/1599953586699767808)
+
+### This is what Twitter users [@FlyingTrilobite](https://twitter.com/FlyingTrilobite/status/1564760472318001152) and [@LaurynIpsum](https://twitter.com/LaurynIpsum/status/1599953586699767808) say on the matter.
 
 <br>
 
-## Portfolio items
-The portfolio you submit needs to contain the following:
+However, some artists feel quite positively about AI. They feel that AI models are a useful creative tool. Many artists have said that it is helpful for generating reference images that can be difficult to just find online. 
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+Many artists such as Mateusz Urbanowicz whose watercolour artworks were used to train AI models on the AI generator program LAION-5B feels that “now we are facing the same problem the music industry faced with websites like Napster, which was maybe made with good intentions or without thinking about the moral implications.” 
 
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
+Napster was, as described by Britannica, “a music file-sharing computer service created in 1999.” Napster allowed users to share electronic copies of music stored on their personal computers over the internet. This file sharing brought about a legal battle over digital rights and the development of digital rights management software to prevent computer copyright piracy.
 
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
+
+
 
 <br>
+
+## Testing AI Artwork Generators
+
+I decided to try and create my own AI artwork using different free AI generators. To test these generators, I decided to pick one description to input into all of the generators to get the most accurate result. This was:
+
+#### “a ginger cat sat on a pile of books in a forest”. 
+
+
+### I decided to test a few things when using the generator:
+
+1. How easy is it to use
+2. How accurate is the image compared to the description
+3. Does this image contain certain tells that it has used a real artist’s work (e.g. you can see the artists signature)
+
 
 ## Log
 
