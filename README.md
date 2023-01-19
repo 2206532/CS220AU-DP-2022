@@ -23,7 +23,7 @@ To create AI art, artists use AI as a creative instrument and work with the algo
 
 ## How Does AI-generated Art Affect Artists?
 
-There are ethical issues concerning the use of AI generators as most, if not all, tend to steal existing artworks from real artists. This is done without the permission of the artist making it. Specific apps like Lensa are riddled with controversy. Many artists have accused the company that created Lensa of using their art without permission. Many digital artists have also expressed their concerns over AIs creating images in such large quantities cheaply. This is because these images have specific styles that artists have spent years refining. 
+There are ethical issues concerning the use of AI generators as most, if not all, tend to steal existing artworks from real artists. This is done without the permission of the artist making the works. Specific apps like Lensa are riddled with controversy. Many artists have accused the company that created Lensa of using their art without permission. Many digital artists have also expressed their concerns over AIs creating images in such large quantities cheaply. This is because these images have specific styles that the artists have spent years refining. 
 
 The app Lensa is saying that they are “bringing art to the masses” but artists like Karla Oritz say that “what they’re bringing is forgery, art theft and copying to the masses.” 
 
@@ -92,9 +92,48 @@ I put my prompt in and had to choose what type of art style I wanted to use. Som
 
 This time, there are no visible signs that this AI artwork has been copied from a real artist. Looking closely, there are no watermarks or signatures visible on the work. 
 
+#### The next AI generator I used was [Starry AI](https://starryai.com/)
+
+I also found Starry AI incredibly easy to use. Just like WOMBO Dream, you do not need to create an account for Starry AI. I found that Starry AI is for a more professional use as it suggested the different ways you can use the AI generator for professional images.
+
+![image](https://user-images.githubusercontent.com/116068004/213290387-9a408332-c4c7-43b2-a7cc-bd3fcec34fda.png)
+
+All I had to do to generate my AI image was input my prompt and it gave me a really accurate image suggestion from my prompt. It also gave you four different images from your prompt.
+
+![image](https://user-images.githubusercontent.com/116068004/213290602-48e061f0-501e-4f2f-b0fe-fd5a5428471f.png)
+
+Once again, there were no clear signs that this artwork had been copied from a real artist. Again, looking closely at the artwork, there are no visible watermarks or signatures on this piece of work. 
+
+
+## Learn More About AI Art and Its Controversy 
+
+![image](https://user-images.githubusercontent.com/116068004/213345455-10b9c8c9-49b1-4b5c-a37e-a104fb83e67b.png)
+
+#### Link to a [Spotify PLaylist](https://open.spotify.com/playlist/7y02LEaow24KhWySkwGE50?si=d103f707f8d643ff)
+
+![image](https://user-images.githubusercontent.com/116068004/213345971-f5ef4c32-738e-404a-bc07-19ade865e603.png)
+
+#### Link to a [YouTube Playlist](https://youtube.com/playlist?list=PLqUVxkwUzU_XLSJ8mndqCCBCLROiSalbo) containing more information about AI art
+
+<br>
 <br>
 <br>
 
 ## Log
 
 - 18.10.2022  I created my Github account and started to work out how to use it.
+- 25.10.2022  I played around with Github, trying out different things - also started to work out what topic I wanted research for my website
+- 02/11/2022  I did more research on different topics as I am still unsure about what I want to research about for my website 
+- 10/11/2022  I found a general topic I want to research for my website and have started refining it to help my research
+- 15/11/2022  I managed to refine my website topic and started to do specific research on this topic
+- 24/11/2022  I continued doing research for my website and making notes about my topic of choice
+- 01/12/2022  Once again, I continued to do research on my topic and made notes on the reading
+- 5/12/2022  I started to figure out how I was going to format my website, however I have not put it on my main website yet
+- 6/12/2022  I continued to research my topic by looking at videos and podcasts instead of reading material this time
+- 15/12/2022  I looked into how I can embed videos into my website and attempted to do that in my private notes – it took a few tries but in the end I managed to do it 
+- 6/01/2023  I looked into how I can put links and images in my website and started to play around with that – once again being successful after a few tries
+- 15/01/2023  I have now fully formatted how I want my website to look and now have to just paste it into the public repository 
+- 17/01/2023  Started to format my website on the public repository, going slowly so that I can make sure I am happy with everything on there
+- 18/01/2023  Finished formatting my work on the public repository, now ready to upload
+
+
