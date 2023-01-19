@@ -15,11 +15,11 @@ GitHub repository URL:  https://github.com/2206532/CS220AU-DP-2022
 I made sure that
 
 - [x] my GitHub username matches my student number;
-- [ ] my repository to submit is named 'CS220AU-portfolio-2022'.
+- [x] my repository to submit is named 'CS220AU-portfolio-2022'.
 
 ### Website
-- [ ] I used the website to explore the theme given.
-- [ ] I provided a URL to my website in my repository's sidebar.
+- [x] I used the website to explore the theme given.
+- [x] I provided a URL to my website in my repository's sidebar.
 
 
 ### Self- and peer-assessment
