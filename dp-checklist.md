@@ -6,7 +6,7 @@ Coursework title: Digital Portfolio
 
 Marker: Dr Krisztián Hofstädter  
 
-GitHub repository URL:  https://2206532.github.io/CS220AU-DP-2022/
+GitHub repository URL:  https://github.com/2206532/CS220AU-DP-2022/blob/d31b00c80abc115e2ec17489a377da0b21c862c8/dp-checklist.md
 
 ## Checklist
 <!-- #todo : complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below. --> 
